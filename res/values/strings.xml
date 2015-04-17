@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Game</string>
+    <string name="saved_high_score">saved_high_score</string>
+    <string name="saved_sound">saved_sound</string>
+    <string name="saved_vibration">saved_vibration</string>
+
+</resources>
